@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main 
+{int n,k;
+scanf("%d %d",&n,&k);
+k=(k/n);
+printf("%d",k);return 0;}
